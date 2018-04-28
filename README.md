@@ -1,4 +1,4 @@
-# Example hologram style guide
+# xample hologram style guide
 
 This is an example project that uses
 [hologram](http://trulia.github.io/hologram) to build [this style
